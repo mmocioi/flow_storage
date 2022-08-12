@@ -1,6 +1,6 @@
 flows:
-  5a2f1d5f-c4e4-4402-b838-63cb4196d378: {ver: 3, file: flow_testing.snapshot, comments: New
-      Processor, author: anonymous, created: 1660291788457, flowName: flow_testing,
+  5a2f1d5f-c4e4-4402-b838-63cb4196d378: {ver: 4, file: flow_testing.snapshot, comments: removed
+      processors, author: anonymous, created: 1660292242972, flowName: flow_testing,
     flowDesc: jajaja}
 layoutVer: 1
 bucketId: c6cbc01e-7716-4a05-8a79-496c79d51b5b
