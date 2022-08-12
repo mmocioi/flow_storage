@@ -151,7 +151,7 @@
           },
           "properties" : {
             "Create Missing Directories" : "true",
-            "Directory" : "C:\\Users\\mmocioi\\MAIN",
+            "Directory" : "C:\\Users\\mmocioi\\MAIN\\testfolder",
             "Conflict Resolution Strategy" : "replace"
           },
           "propertyDescriptors" : {
