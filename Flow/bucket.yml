@@ -2,7 +2,8 @@ flows:
   5a2f1d5f-c4e4-4402-b838-63cb4196d378: {ver: 7, file: flow_testing.snapshot, comments: Removed
       Yet Another Processor, author: anonymous, created: 1660294193198, flowName: flow_testing,
     flowDesc: jajaja}
-  9e2aca56-b504-4333-bf3b-b40d10c032f0: {ver: 1, file: File_Validation.snapshot, comments: '',
-    author: anonymous, created: 1660634376963, flowName: File Validation, flowDesc: ''}
+  9e2aca56-b504-4333-bf3b-b40d10c032f0: {ver: 2, file: File_Validation.snapshot, comments: delete
+      on processor, author: anonymous, created: 1660918091592, flowName: File Validation,
+    flowDesc: ''}
 layoutVer: 1
 bucketId: c6cbc01e-7716-4a05-8a79-496c79d51b5b
